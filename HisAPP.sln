@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HisAPP", "HisAPP\HisAPP.csproj", "{C95B06B0-2257-4678-8F73-26E45FBC5D05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C95B06B0-2257-4678-8F73-26E45FBC5D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95B06B0-2257-4678-8F73-26E45FBC5D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95B06B0-2257-4678-8F73-26E45FBC5D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95B06B0-2257-4678-8F73-26E45FBC5D05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {163541A8-F6AC-4D3B-B9C5-2FA65EB0703D}
+	EndGlobalSection
+EndGlobal
